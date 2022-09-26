@@ -2,7 +2,7 @@
 Aplicação com node, react e react-native
 
 ## Sobre este Repositório 
-Nesta aplicação foi construida uma api com o node.js, sobre onde encontrar seu "duo" para jogos online, e foi consumida com react na wab e react-native no mobile
+Nesta aplicação foi construida uma api com o node.js, sobre onde encontrar seu "duo" para jogos online, e foi consumida com react na web e react-native no mobile
   
 ## Rodar a Aplicação
 
